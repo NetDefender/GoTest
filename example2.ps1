@@ -1,0 +1,1 @@
+Get-ChildItem -Filter *.txt | Select-Object -Property LastWriteTime, @{Name="New-Property"; Expression={[DateTime]::Now.Subtract($_.LastWriteTime)}}

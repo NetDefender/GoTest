@@ -1,0 +1,11 @@
+
+ProcessName
+-----------
+Code
+com.docker.service
+conhost
+Cortana
+csrss
+ctfmon
+Ejëmplo
+%CUSTOM_VARIABLE%
